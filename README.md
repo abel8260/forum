@@ -12,6 +12,6 @@
 ---
 
 OBS.:Processo de sub em teste           
-links:
+# Links:
 - https://github.com/abel8260/subs---sigdu-kingdom/wiki
 - https://github.com/abel8260/subs---sigdu-kingdom/discussions
