@@ -11,7 +11,27 @@
 
 ---
 
-OBS.: Processo de sub em teste           
+# Topicos adicionados :
+1. minere itens
+2. lute com mobs rapidamente  
+3. customize seu personagem
+4. atravesse historias criativas 
+
+---
+  
+# Disponivel em: //----------------//
+1. apployd: https://apployd.herokuapp.com/
+2. web: https://sigdu-kingdom.herokuapp.com/   
+
+---
+
+# Preço:
+R$ 1 - R$ 4;
+combos de 2R$ com 50 gemas + item especial
+OBS.: Processo de sub em teste.
+
+---
+
 # Links:
 1. wiki do forum: https://github.com/abel8260/subs---sigdu-kingdom/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/subs---sigdu-kingdom/discussions
