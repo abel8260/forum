@@ -7,7 +7,8 @@
 
 # Como funciona? 
 - A pessoa paga no gateway;
-- Aguarda o pagamento cair no caixa.            
+- Aguarda o pagamento cair no caixa.  
+- recebe uma notificaçao no gateway.               
 - Recebe acesso aos seus premios;
 
 ---
