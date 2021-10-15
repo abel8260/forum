@@ -6,8 +6,9 @@
 ---
 
 # Como funciona? 
-- A pessoa paga no padrim;
-- Recebera acesso aos seus premios;
+- A pessoa paga no gateway;
+- Aguarda o pagamento cair no caixa.            
+- Recebe acesso aos seus premios;
 
 ---
 
