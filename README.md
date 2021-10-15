@@ -32,6 +32,9 @@ OBS.: Processo de sub em teste.
 
 ---
 
+# Videos:
+1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
+
 # Links:
 1. wiki do forum: https://github.com/abel8260/subs---sigdu-kingdom/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/subs---sigdu-kingdom/discussions
