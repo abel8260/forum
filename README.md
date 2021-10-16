@@ -27,6 +27,13 @@
 
 ---
 
+# Devlog:
+1. https://www.youtube.com/watch?v=oC3ZXUD3tc8
+2. https://abel8260.itch.io/reinos-de-sigdu/devlog/304643/devlog-161021-roteiro-e-jogo
+3. https://abel8260.github.io/Devlog-Wr/sigdu-diary/HOME/index.html
+
+---
+
 # Preço:
 R$ 6 - R$ 28;(taxas inclusas)   
 combos de 2R$ com 50 gemas + item especial
@@ -36,15 +43,11 @@ OBS.: Processo de sub em teste.
 
 # Videos:
 1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
-
----
-
-# Mmohub:
-10.Deixe seu voto no mmohub:
-- https://mmohub.com/site/644/vote (se gostou vota la, mano)     
-
+2. https://www.youtube.com/watch?v=oC3ZXUD3tc8 (devlog inicial) 
 ---
 
 # Links:
 1. wiki do forum: https://github.com/abel8260/subs---sigdu-kingdom/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/subs---sigdu-kingdom/discussions
+3. itch.io: https://abel8260.itch.io/reinos-de-sigdu
+4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano)
