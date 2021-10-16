@@ -39,6 +39,12 @@ OBS.: Processo de sub em teste.
 
 ---
 
+# MMOHUB:
+0.Deixe seu voto no mmohub:
+- https://mmohub.com/site/644/vote (se gostou vota la, mano)     
+
+---
+
 # Links:
 1. wiki do forum: https://github.com/abel8260/subs---sigdu-kingdom/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/subs---sigdu-kingdom/discussions
