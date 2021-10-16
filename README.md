@@ -28,7 +28,7 @@
 ---
 
 # Preço:
-R$ 1 - R$ 4;
+R$ 6 - R$ 28;(taxas inclusas)   
 combos de 2R$ com 50 gemas + item especial
 OBS.: Processo de sub em teste.
 
