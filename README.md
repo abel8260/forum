@@ -22,9 +22,7 @@
 ---
   
 # Disponivel em: //----------------//
-1. apployd: https://apployd.herokuapp.com/
-2. web: https://sigdu-kingdom.herokuapp.com/   
-
+1. no host yet
 ---
 
 # Devlog:
@@ -51,4 +49,4 @@ OBS.: Processo de sub em teste.
 1. wiki do forum: https://github.com/abel8260/forum/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/forum/discussions
 3. itch.io: https://abel8260.itch.io/reinos-de-sigdu
-4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano)
+4. 0
