@@ -31,6 +31,7 @@
 1. https://www.youtube.com/watch?v=oC3ZXUD3tc8
 2. https://abel8260.itch.io/reinos-de-sigdu/devlog/304643/devlog-161021-roteiro-e-jogo
 3. https://abel8260.github.io/Devlog-Wr/sigdu-diary/HOME/index.html
+4. https://abel8260.itch.io/reinos-de-sigdu/devlog/305644/devlog-191021-database-is-down-error-404-gateway-de-pagamento
 
 ---
 
