@@ -4,6 +4,11 @@
 
 ---
 
+# Timeline:
+- 2 votos: https://prnt.sc/1wym3zv
+
+---
+
 # Topicos adicionados :
 1. minere itens
 2. lute com mobs rapidamente  
