@@ -22,7 +22,9 @@
 ---
   
 # Disponivel em: //----------------//
-1. no host yet
+1. apployd: https://apployd.herokuapp.com/
+2. web: https://sigdu-kingdom.herokuapp.com/   
+
 ---
 
 # Devlog:
@@ -40,9 +42,6 @@ OBS.: Processo de sub em teste.
 
 ---
 
-<iframe frameborder="0" src="https://itch.io/embed/1237670?link_color=392626" width="552" height="167"><a href="https://abel8260.itch.io/reinos-de-sigdu">Reinos de Sigdu by Abel  Barbosa</a></iframe>
-
----
 # Videos:
 1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
 2. https://www.youtube.com/watch?v=oC3ZXUD3tc8 (devlog inicial) 
@@ -52,4 +51,5 @@ OBS.: Processo de sub em teste.
 1. wiki do forum: https://github.com/abel8260/forum/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/forum/discussions
 3. itch.io: https://abel8260.itch.io/reinos-de-sigdu
-4. 0
+4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano)
+
