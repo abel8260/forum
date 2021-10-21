@@ -40,6 +40,9 @@ OBS.: Processo de sub em teste.
 
 ---
 
+<iframe frameborder="0" src="https://itch.io/embed/1237670?link_color=392626" width="552" height="167"><a href="https://abel8260.itch.io/reinos-de-sigdu">Reinos de Sigdu by Abel  Barbosa</a></iframe>
+
+---
 # Videos:
 1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
 2. https://www.youtube.com/watch?v=oC3ZXUD3tc8 (devlog inicial) 
