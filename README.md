@@ -6,6 +6,7 @@
 
 # Timeline:
 - 2 votos: https://prnt.sc/1wym3zv
+- paragon point check: https://prnt.sc/1wvjkj1  
 
 ---
 
