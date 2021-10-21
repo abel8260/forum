@@ -11,7 +11,7 @@
 4. atravesse historias criativas 
 
 ---
-# Gateway de pagamento próprio:em desenvolvimento)  
+# Gateway de pagamento próprio:(em desenvolvimento)  
 1.https://apipagocastres.herokuapp.com/
 
 ## Roadmap:
