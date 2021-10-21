@@ -40,6 +40,7 @@
 2. https://abel8260.github.io/forum/
 3. https://abel8260.github.io/Devlog-Wr/sigdu-diary/HOME/index.html
 
+---
 
 # Videos:
 1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
