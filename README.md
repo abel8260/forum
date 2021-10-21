@@ -1,15 +1,6 @@
 
  - Parabéns jovem viajante. Se chegou ate aqui é por causa  de sua determinaçao.
  - Aqui é o local onde os jogadores encontram informaçoes sobre os subs delas.
- - OBS.: subs = compradores da mensalidade do sigdu-kingdom.   
- 
----
-
-# Como funciona? 
-- A pessoa paga no gateway;
-- Aguarda o pagamento cair no caixa.  
-- recebe uma notificaçao no gateway.               
-- Recebe acesso aos seus premios;
 
 ---
 
@@ -35,12 +26,6 @@
 
 ---
 
-# Preço:
-R$ 6 - R$ 28;(taxas inclusas)   
-combos de 2R$ com 50 gemas + item especial
-OBS.: Processo de sub em teste.
-
----
 
 # Videos:
 1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
