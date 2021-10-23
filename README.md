@@ -58,5 +58,9 @@
 1. wiki do forum: https://github.com/abel8260/forum/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/forum/discussions
 3. itch.io: https://abel8260.itch.io/reinos-de-sigdu
-4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano)
+4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano) ->
+<a href="https://mmohub.com/site/644/vote" title="MMORPG browser games private servers">
+   <img src="https://mmohub.com/vote.jpg" alt="MMORPG browser games private servers">
+</a>
+
 
