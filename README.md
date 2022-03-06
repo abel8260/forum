@@ -1,9 +1,3 @@
-
- - Parabéns jovem viajante. Se chegou ate aqui é por causa  de sua determinaçao.
- - Aqui é o local onde os jogadores encontram informaçoes sobre os subs delas.
-
----
-
 # Timeline:
 - paragon point, check. By hiroo: https://prnt.sc/1wvjkj1  
 
@@ -39,8 +33,8 @@
 ---
 
 # Videos:
-1. https://youtu.be/opId06xh9ZQ (teaser do jogo) 
-2. https://www.youtube.com/watch?v=oC3ZXUD3tc8 (devlog inicial) 
+1. Em breve (teaser do jogo) 
+2. Em breve (devlog inicial) 
 ---
 
 # Links:
