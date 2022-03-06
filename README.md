@@ -5,7 +5,6 @@
 ---
 
 # Timeline:
-- 2 votos: https://prnt.sc/1wym3zv
 - paragon point, check. By hiroo: https://prnt.sc/1wvjkj1  
 
 ---
@@ -16,15 +15,7 @@
 3. customize seu personagem
 4. atravesse historias criativas 
 
----
-# Gateway de pagamento próprio:(em desenvolvimento)  
-1. https://apipagocastres.herokuapp.com/
 
-## Roadmap:
-1. Set vampiro mercyries #1: https://apipagocastres.herokuapp.com/models/src/itens/set-vamp-mercyries/index.php
-2. Plano de 1 mes da expansao warmancer: https://apipagocastres.herokuapp.com/models/src/mensal/wrmncr/index.php
-
----
 
 # Disponivel em: //----------------//
 1. apployd: https://apployd.herokuapp.com/
@@ -58,9 +49,5 @@
 1. wiki do forum: https://github.com/abel8260/forum/wiki
 2. discussoes pertinentes ao forum: https://github.com/abel8260/forum/discussions
 3. itch.io: https://abel8260.itch.io/reinos-de-sigdu
-4. mmohub: https://mmohub.com/site/644/vote (se gostou vota la, mano) ->
-<a href="https://mmohub.com/site/644/vote" title="MMORPG browser games private servers">
-   <img src="https://mmohub.com/vote.jpg" alt="MMORPG browser games private servers">
-</a>
 
 
