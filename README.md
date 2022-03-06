@@ -18,17 +18,15 @@
 
 
 # Disponivel em: //----------------//
-1. apployd: https://apployd.herokuapp.com/
-2. web: https://sigdu-kingdom.herokuapp.com/   
+1. web: https://github.com/abel8259/sigdu-kingdom-v-5-0   
 
 ---
 
 # Devlog:
-1. https://www.youtube.com/watch?v=oC3ZXUD3tc8
-2. https://abel8260.itch.io/reinos-de-sigdu/devlog/304643/devlog-161021-roteiro-e-jogo
-3. https://abel8260.github.io/Devlog-Wr/sigdu-diary/HOME/index.html
-4. https://abel8260.itch.io/reinos-de-sigdu/devlog/305644/devlog-191021-database-is-down-error-404-gateway-de-pagamento
-5. https://abel8260.itch.io/reinos-de-sigdu/devlog/305873/devlog-201021-o-servidor-pessooooas-foi-s-um-problema-de-trobbleshooting
+1. https://abel8260.itch.io/reinos-de-sigdu/devlog/304643/devlog-161021-roteiro-e-jogo
+2. https://abel8260.github.io/Devlog-Wr/sigdu-diary/HOME/index.html
+3. https://abel8260.itch.io/reinos-de-sigdu/devlog/305644/devlog-191021-database-is-down-error-404-gateway-de-pagamento
+4. https://abel8260.itch.io/reinos-de-sigdu/devlog/305873/devlog-201021-o-servidor-pessooooas-foi-s-um-problema-de-trobbleshooting
 
 ---
 
