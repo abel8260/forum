@@ -22,7 +22,14 @@
 3. https://abel8260.itch.io/reinos-de-sigdu/devlog/305644/devlog-191021-database-is-down-error-404-gateway-de-pagamento
 4. https://abel8260.itch.io/reinos-de-sigdu/devlog/305873/devlog-201021-o-servidor-pessooooas-foi-s-um-problema-de-trobbleshooting
 
+### versao --asset de jogo:  
 ---
+5. https://abel8260.itch.io/reinos-de-sigdu/devlog/357068/devlog-060322-novo-ciclo-de-vida
+---
+
+6.https://abel8260.itch.io/reinos-de-sigdu/devlog/357068/devlog-060322-novo-ciclo-de-vida
+7 https://abel8260.itch.io/reinos-de-sigdu/devlog/354665/devlog-120322-tutorial-basico-v50
+
 
 # Newsletter:
 
