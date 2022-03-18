@@ -28,8 +28,10 @@
 ---
 
 6.https://abel8260.itch.io/reinos-de-sigdu/devlog/357068/devlog-060322-novo-ciclo-de-vida
-7 https://abel8260.itch.io/reinos-de-sigdu/devlog/354665/devlog-120322-tutorial-basico-v50
 
+7.https://abel8260.itch.io/reinos-de-sigdu/devlog/354665/devlog-120322-tutorial-basico-v50
+
+8.https://abel8260.itch.io/reinos-de-sigdu/devlog/358920/devlog-170322-tumbas-e-lapides-types
 
 # Newsletter:
 
