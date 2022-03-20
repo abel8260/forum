@@ -33,6 +33,10 @@
 
 8. https://abel8260.itch.io/reinos-de-sigdu/devlog/358920/devlog-170322-tumbas-e-lapides-types
 
+9. https://abel8260.itch.io/reinos-de-sigdu/devlog/359829/devlog-200322-farmando-xp-no-sigdu-kingdom
+
+---
+
 #  Newsletter:
 
 1. http://projeto-soulslikeseriejogo.herokuapp.com/
