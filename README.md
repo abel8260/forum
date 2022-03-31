@@ -35,6 +35,10 @@
 
 9. https://abel8260.itch.io/reinos-de-sigdu/devlog/359829/devlog-200322-farmando-xp-no-sigdu-kingdom
 
+10. https://abel8260.itch.io/reinos-de-sigdu/devlog/362862/devlog-28-03-22-problemas-com-tabela-usuario
+
+11. https://abel8260.itch.io/reinos-de-sigdu/devlog/363959/devlog-310322-update-501-menu-albun-finalizado 
+
 ---
 
 #  Newsletter:
