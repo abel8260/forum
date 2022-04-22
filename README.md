@@ -39,6 +39,8 @@
 
 11. https://abel8260.itch.io/reinos-de-sigdu/devlog/363959/devlog-310322-update-501-menu-albun-finalizado 
 
+12. https://abel8260.itch.io/reinos-de-sigdu/devlog/372514/devlog-22-04-22-massiva-add-de-itens-e-novas-shops
+
 ---
 
 #  Newsletter:
